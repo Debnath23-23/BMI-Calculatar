@@ -1,0 +1,23 @@
+button{
+    padding: 5px;
+    background-color: rgb(78, 78, 237);
+    border-radius: 15%;
+    border: 2px solid red;
+}
+nav{
+    background-color: purple;
+    padding: 25px;
+    border-radius: 12px;
+    border: 2px solid blue;
+}
+input{
+    background-color: cadetblue;
+    padding: 10px;
+}
+form{
+    border :2px solid black;
+    margin: 10% ;
+    text-align: center;
+    border-radius: 5dvh;
+    background-color: chartreuse;
+}
